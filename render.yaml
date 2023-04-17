@@ -5,4 +5,3 @@ services:
     env: docker
     region: Singapore
     plan: free
-    
