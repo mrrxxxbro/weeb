@@ -1,4 +1,4 @@
-FROM killerlearner/wzml:latest
+FROM killerlearner/wzml:test
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
