@@ -3,6 +3,8 @@
   [Support Group](https://t.me/tleechlog)
 
 # Delete readme.md for railway
+ Change "killerlearner/wzml:latest" to 'killerlearner/wzml:beta' 
+ If you find any error while deploying.
 
 Instructions for Heroku
 ---------------------
